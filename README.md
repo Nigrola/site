@@ -1,4 +1,3 @@
-# site
 ---
 permalink: /MSI.html
 ---
