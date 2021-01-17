@@ -1,1 +1,4 @@
 # site
+---
+permalink: /MSI.html
+---
