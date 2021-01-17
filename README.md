@@ -1,3 +1,3 @@
 ---
-permalink: /MSI.html
+permalink: /index.html
 ---
